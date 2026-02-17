@@ -86,6 +86,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.0.0"
+  flutter_notification_listener:
+    dependency: "direct main"
+    description:
+      name: flutter_notification_listener
+      sha256: da24858c65ab02f6cddad88c06ae45885c514e131f5a6c47c471e7260d3bca51
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -216,38 +224,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.8"
-  quick_actions:
-    dependency: "direct main"
-    description:
-      name: quick_actions
-      sha256: "7e35dd6a21f5bbd21acf6899039eaf85001a5ac26d52cbd6a8a2814505b90798"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.1.0"
-  quick_actions_android:
-    dependency: transitive
-    description:
-      name: quick_actions_android
-      sha256: "23f04632ada7fc16665d84ba54a0c792c09727e7fda6c989c6e6ba1853aa15dc"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.27"
-  quick_actions_ios:
-    dependency: transitive
-    description:
-      name: quick_actions_ios
-      sha256: a2e08ceb01f9d26e1b1826b1c4f5da6b7b6bbf61bcbaacd8e93dfff58b91f996
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.2.3"
-  quick_actions_platform_interface:
-    dependency: transitive
-    description:
-      name: quick_actions_platform_interface
-      sha256: "1fec7068db5122cd019e9340d3d7be5d36eab099695ef3402c7059ee058329a4"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.1.0"
   shared_preferences:
     dependency: "direct main"
     description:
@@ -389,6 +365,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.1"
+  workmanager:
+    dependency: "direct main"
+    description:
+      name: workmanager
+      sha256: ed13530cccd28c5c9959ad42d657cd0666274ca74c56dea0ca183ddd527d3a00
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.5.2"
   xdg_directories:
     dependency: transitive
     description:

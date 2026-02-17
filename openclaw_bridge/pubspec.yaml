@@ -36,7 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   http: ^1.6.0
   shared_preferences: ^2.5.4
-  quick_actions: ^1.1.0
+  flutter_notification_listener: ^1.1.0
+  workmanager: ^0.5.2
 
 dev_dependencies:
   flutter_test:

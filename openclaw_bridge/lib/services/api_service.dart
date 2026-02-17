@@ -1,7 +1,7 @@
 import 'package:http/http.dart' as http;
 
 class ApiService {
-  Future<void> triggerAction(String actionId) async {
-    // TODO: Implement API call
+  Future<void> sendNotification(Map<String, dynamic> payload) async {
+    // TODO: Implement Webhook POST
   }
 }
